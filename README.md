@@ -1,9 +1,9 @@
 # genealogia_prolog
 Arvore genealógica em Prolog - Trabalho da Fatec
 
-#build
+# build
 docker build -t genealogia .
 
-#run
+# run
 docker run -it genealogia
 
